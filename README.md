@@ -8,12 +8,9 @@ To run this project, you need to have Node.js installed on your machine. If you 
 
 After installing Node.js, navigate to the project directory and run the following command to install the dependencies:
 
-```bash
 npm install
-```bash
 
 To run the project, use the following command:
 
 ```bash
 npm run start
-```bash
