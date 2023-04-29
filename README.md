@@ -10,8 +10,10 @@ After installing Node.js, navigate to the project directory and run the followin
 
 ```bash
 npm install
+```bash
 
 To run the project, use the following command:
 
 ```bash
 npm run start
+```bash
